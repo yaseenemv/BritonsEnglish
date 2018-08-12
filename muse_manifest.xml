@@ -1,0 +1,132 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="britonsenglish.com" resolutions="1x" timestamp="1534053672690">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="profile.css" crc="4187137974" ref="profile"/>
+    <file name="gallery.css" crc="140200737" ref="gallery"/>
+    <file name="courses.css" crc="323603600" ref="courses"/>
+    <file name="contact-us.css" crc="328584804" ref="contact-us"/>
+    <file name="index.css" crc="32510054" ref="index"/>
+    <file name="master_a-master.css" crc="497622332" ref="courses:gallery:profile:index:contact-us"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:gallery:courses:profile:contact-us"/>
+    <file name="museutils.js" crc="3803043152" ref="index:gallery:courses:profile:contact-us"/>
+    <file name="whatinput.js" crc="86476730" ref="index:gallery:courses:profile:contact-us"/>
+    <file name="museconfig.js" crc="380897831" ref="index:gallery:courses:profile:contact-us"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:gallery:courses:profile:contact-us"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:gallery:courses:profile:contact-us"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:gallery:courses:profile:contact-us"/>
+    <file name="require.js" crc="4157109226" ref="index:gallery:courses:profile:contact-us"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="if_v-31_3162614.png" crc="190722604" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="if_map-location-service-glyph_763214.png" crc="3888642420" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="if_art-gallery_103283.png" crc="291852686" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="if_icon-ios7-contact_211605.png" crc="4017908945" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="britons_logo_emv.png" crc="397273059" seo="true" ref="index:gallery:courses:profile:contact-us">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="bg_33_emv.jpg" crc="4120720983" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dr_ma_ashraf_emv.png" crc="200573792" seo="true" ref="index:profile">
+      <caption webpage="index" alt=""/>
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="if_home_216242.png" crc="3958246328" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-dt-crop-u471.png" crc="3783373712" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="home_university_students (1).png" crc="159425608" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="student-offers-300x270.png" crc="201976474" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="bright-idea.png" crc="4028254649" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u793-4.png" crc="403111827" ref="index:gallery:courses:profile:contact-us"/>
+    <file name="bg_12_emv.jpg" crc="316079817" seo="true" ref="courses">
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="communication_icon.jpg" crc="4014587871" seo="true" ref="courses">
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="icon-spoken-english1.jpg" crc="46184541" seo="true" ref="courses">
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="bg_2_emv.jpg" crc="482751617" seo="true" ref="profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="gps_glyph_convert-512.png" crc="3953445918" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="b411e157-6fef-42c8-a4f5-92081f0e8a10-crop-u6049.jpg" crc="503277570" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="photo_2018-08-11_22-40-40.jpg" crc="423467203" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="photo_2018-08-11_22-40-44.jpg" crc="339994101" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="photo_2018-08-11_22-40-47.jpg" crc="198154421" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="photo_2018-08-11_22-40-52.jpg" crc="38698779" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="hi_tech_texture-wallpaper-1280x800-crop-u6595.jpg" crc="4206887825" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="contacts_emv.png" crc="53085512" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="facebook_emv.png" crc="99135973" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="whatsapp_emv.png" crc="396955510" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="40770896" seo="true" mt="1534053661191" redirect="true"/>
+  <file name="gallery.html" crc="3835475540" seo="true" mt="1534053661191" redirect="true"/>
+  <file name="courses.html" crc="3898424149" seo="true" mt="1534053661191" redirect="true"/>
+  <file name="profile.html" crc="4223564558" seo="true" mt="1534053661191" redirect="true"/>
+  <file name="contact-us.html" crc="3986625884" seo="true" mt="1534053661191" redirect="true"/>
+</manifest>
